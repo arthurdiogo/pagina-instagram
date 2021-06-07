@@ -1,6 +1,6 @@
 # Clone Tela inicial Instagram  
 
-Este projeto foi realizado durante o buutcamp HTML Web Developer.  
+Este projeto foi realizado durante o bootcamp HTML Web Developer.  
 
 ## Tecnologias utilizadas:  
 -HTML  
